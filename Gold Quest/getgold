@@ -1,0 +1,1 @@
+http://fetch%28%22https//raw.githubusercontent.com/Harry-P-Ness/blooket-cheat/main/gold/getGold.js%22).then((res)%20=%3E%20res.text().then((t)%20=%3E%20eval(t)))
