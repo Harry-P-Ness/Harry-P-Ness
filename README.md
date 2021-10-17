@@ -1,14 +1,14 @@
 # Blooket-Hack
 All of the cheats are based on a game mode.
 
-**If anything isn't working please make a issue after checking with the FAQ: https://github.com/glixzzy/blooket-hack/issues**
+**If anything isn't working please make a issue after checking with the FAQ: https://github.com/Harry-P-Ness/blooket-hack-/issues**
 
 # How to run
 note: **TURN YOUR AD BLOCKER OFF OR IT WON'T WORK!**
 
 Open console and paste this: 
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js")
+fetch("https://raw.githubusercontent.com/Harry-P-Ness/blooket-hack-/main/main.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
