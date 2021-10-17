@@ -1,2 +1,1 @@
-javascript: fetch("https://raw.githubusercontent.com/Harry-P-Ness/blooket-hack-/main/More/addTokens.js").then((res) => res.text().then((t) => eval(t)))
-javascript: fetch("https://raw.githubusercontent.com/Harry-P-Ness/blooket-hack-/main/More/bypassRandomName.js").then((res) => res.text().then((t) => eval(t)))
+
