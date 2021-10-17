@@ -1,8 +1,6 @@
 # Blooket-Hack
 All of the cheats are based on a game mode.
 
-**Support Discord Server: https://discord.gg/bGRN82QQYM**
-
 **scroll down for video tutorial**
 
 # How to run
